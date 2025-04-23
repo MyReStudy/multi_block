@@ -8,7 +8,7 @@ import pandas as pd
 from nets.attention_model import set_neighbor
 # from problems import STSP
 from problems.stsp.graph_info import get_distance_and_neighbor, get_info_aisle_vertex
-from pythonProject.problems.stsp.problem_stsp import generate_instance
+from problems.stsp.problem_stsp import generate_instance
 
 from 精确算法 import exact_solver
 
