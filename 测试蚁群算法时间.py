@@ -3,10 +3,10 @@ import random
 import numpy as np
 import pandas as pd
 
-from pythonProject.nets.attention_model import set_neighbor
-from pythonProject.problems.stsp.graph_info import get_distance_and_neighbor, get_info_aisle_vertex
-from pythonProject.problems.stsp.problem_stsp import generate_instance
-from pythonProject.蚁群算法 import ACO_solver
+from nets.attention_model import set_neighbor
+from problems.stsp.graph_info import get_distance_and_neighbor, get_info_aisle_vertex
+from problems.stsp.problem_stsp import generate_instance
+from 蚁群算法 import ACO_solver
 
 aco_l = []
 seed = []
