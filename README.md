@@ -7,6 +7,8 @@
 如果您想尝试调用模型生成路径的小实验，可以点入：https://github.com/MyReStudy/warehouse-picking
 ，在multi_block进行您的尝试！
 
+不同规模仓库的速度测试请见项目：https://github.com/MyReStudy/speed_test
+
 # 项目说明
 
 run.py：训练模型的入口
