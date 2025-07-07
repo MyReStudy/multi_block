@@ -2,7 +2,7 @@
 
 :wave:欢迎使用多块仓库拣货路径规划问题求解算法项目，该项目所属于毕业论文《面向传统仓库的拣货路径优化再研究》（2025.06）。
 
-部分代码参考了https://github.com/wouterkool/attention-learn-to-route
+该部分使用了代码：https://github.com/wouterkool/attention-learn-to-route（Kool W, Van Hoof H, Welling M. Attention, learn to solve routing problems![J]. arXiv preprint arXiv:1803.08475, 2018.）
 
 如果您想尝试调用模型生成路径的小实验，可以点入：https://github.com/MyReStudy/warehouse-picking
 ，在multi_block进行您的尝试！
